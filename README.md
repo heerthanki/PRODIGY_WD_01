@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-#Day 1: Project Setup and Basic Structure
+_Day 1: Project Setup and Basic Structure_
 
 Goal: Initialize the project and set up the basic structure of the landing page.
 
@@ -11,7 +11,7 @@ Create an index.html file with a basic HTML5 structure.
 Add a basic CSS file (styles.css) and link it to the HTML.
 Initialize a JavaScript file (script.js) and link it to the HTML.
 
-#Day 2: Header and Navigation Bar
+_Day 2: Header and Navigation Bar_
 
 Goal: Design and implement a responsive header and navigation bar.
 
@@ -22,7 +22,7 @@ Add styles for the .navbar and its list items to align them properly.
 Implement basic JavaScript in script.js for mobile menu toggle functionality.
 Style the side navigation bar .sideNavigationBar for mobile view.
 
-#Day 3: Hero Section
+_Day 3: Hero Section_
 
 Goal: Design and implement the hero section of the landing page.
 
@@ -31,7 +31,7 @@ Add styles for the header and .header-content to ensure responsiveness.
 Style the h1, p, and .btn within the hero section.
 Implement a background image or color for the hero section and ensure it is responsive.
 
-#Day 4: Services Section
+_Day 4: Services Section_
 
 Goal: Create and style the services section to highlight key features.
 
@@ -40,7 +40,7 @@ Add CSS styles for the #services section and its heading.
 Style the .services-container to use Flexbox/Grid for layout.
 Add styles for the .service-box and its contents (i, h3, and p).
 
-#Day 5: Testimonials Section
+_Day 5: Testimonials Section_
 
 Goal: Design and implement a testimonials section to showcase user feedback.
 
@@ -49,7 +49,7 @@ Add CSS styles for the #testimonials section and its heading.
 Style the .testimonials-container to ensure it is responsive.
 Add styles for the .testimonial-box and its contents (img, p, and h4).
 
-#Day 6: About and Contact Sections
+_Day 6: About and Contact Sections_
 
 Goal: Implement and style the About and Contact sections.
 
@@ -58,7 +58,7 @@ Add CSS styles for the #about section and its content.
 Style the #contact section, including the form and its inputs.
 Ensure the form is responsive and add styles for the .btn within the form.
 
-#Day 7: Footer, Final Touches, and Deployment.
+_Day 7: Footer, Final Touches, and Deployment._
 
 Goal: Style the footer, perform final touches.
 
